@@ -1,2 +1,2 @@
 # BiLuSDKUnityDemo
-BiLuSDK是为移动开发者提供广告和分享平台管理的一站式聚合平台
+由于[BiLuSDKUnityDemo](https://git.coding.net/lwhldy/BiLuSDK_Unity_Demo.git)单个文件超200M，git上传失败，故将Demo放到Coding上 
